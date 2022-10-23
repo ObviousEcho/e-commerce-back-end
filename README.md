@@ -33,7 +33,10 @@ This project allowed me the opportunity to create an express server, create a my
 
 ![screenshot of Insomnia testing](./assets/images/Screenshot3.png)
 
-Please view my GitHub repo here!:
+Please view my GitHub repo here:
  [e-commerce-back-end](https://github.com/ObviousEcho/e-commerce-back-end)
+
+ A full video demonstration can be viewed here:
+ [e-commerce-back-end](https://drive.google.com/file/d/1iM-61Zd79NlBJK9emDDuvF7zROI2a6bH/view)
 
  Thanks!
